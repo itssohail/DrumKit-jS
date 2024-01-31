@@ -33,7 +33,7 @@ for(var i = 0;i<document.querySelectorAll(".drum").length;i++)
                     audio.play();
                 break;
                 case "l":
-                    var audio = new Audio("sounds/kick-bass.mp3");
+                    var audio = new Audio("kick-bass.mp3");
                     audio.play();
                 break;
 
